@@ -13,6 +13,17 @@ Download the JAR file [here](https://github.com/Hanyaku-Chan/Java-JSON-Collectio
     <scope>system</scope>
     <systemPath>${project.basedir}/path_to_the_file/JsonCollection-1.0-SNAPSHOT.jar</systemPath>
 </dependency>
+#You will need these dependencies too
+<dependency>
+    <groupId>com.google.code.gson</groupId>
+    <artifactId>gson</artifactId>
+    <version>2.8.9</version>
+</dependency>
+<dependency>
+    <groupId>com.fasterxml.jackson.core</groupId>
+    <artifactId>jackson-databind</artifactId>
+    <version>2.13.0</version>
+</dependency>
 ```
 
 ## Usage
