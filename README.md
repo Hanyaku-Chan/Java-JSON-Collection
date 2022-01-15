@@ -2,6 +2,19 @@
 
 Java-JSON-Collection is a port of my Node.JS Library for managing data. It has been inspired by the Discord.JS Collection.
 
+## Installation
+Download the JAR file [here](https://github.com/Hanyaku-Chan/Java-JSON-Collection/releases/download/Releases/JsonCollection-1.0-SNAPSHOT.jar)
+
+``` YML
+<dependency>
+    <groupId>eu.gworks</groupId>
+    <artifactId>jsoncollection</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <scope>system</scope>
+    <systemPath>${project.basedir}/path_to_the_file/JsonCollection-1.0-SNAPSHOT.jar</systemPath>
+</dependency>
+```
+
 ## Usage
 
 ``` Java
